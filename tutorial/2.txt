@@ -1,1 +1,3 @@
-Hello from other document!
+Hello from the other document!
+
+Hi
